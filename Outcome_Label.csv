@@ -1,0 +1,62 @@
+Outcome,Label
+any_diabetes,diabetes
+any_ht,hypertension
+cad,CAD
+bladder_cancer_self_reprot,bladder cancer
+blood_cancer_self_report,blood cancer
+bone_cancer_self_report,bone cancer
+brain_cancer_self_report,brain cancer
+breast_cancer_self_report,breast cancer
+cervix_cancer_self_rerot,cervix cancer
+colon_cancer_self_report,colon cancer
+esophagus_cancer_self_report,esophagus cancer
+gallbladder_cancer_self_report,gallbladder cancer
+kidney_cancer_self_report,kidney cancer
+larynx_cancer_self_report,larynx cancer
+leukemia_self_report,leukemia
+liver_cancer_self_report,liver cancer
+lung_cancer_self_report,lung cancer
+lymphoma_self_report,lymphoma
+melanoma_self_report,melanoma
+mouth_cancer_self_report,mouth cancer
+nervous_cancer_self_report,nervous cancer
+ovarian_cancer_self_report,ovarian cancer
+pancreatic_cancer_self_report,pancreatic cancer
+prostate_cancer_self_report,prostate cancer
+rectum_cancer_self_report,rectum cancer
+skin_cancer_self_report,skin cancer
+other_skin_cancer_self_report,other skin cancer
+soft_cancer_self_report,soft cancer
+stomach_cancer_self_report,stomach cancer
+testis_cancer_self_report,testis cancer
+thyroid_cancer_self_report,thyroid cancer
+uterine_cancer_self_report,uterine cancer
+other_cancer_self_report,other cancer
+any_cancer_self_report,any cancer
+any_family_cad,family CAD
+current_asthma,current asthma
+ever_asthma,ever asthma
+ever_arthritis,ever arthritis
+ever_rheumatoid_arthritis,ever rheumatoid arthritis
+ever_osteo_arthritis,ever osetoarthritis
+LBXHBC,hepatitis B antibody
+LBDHBG,hepatitis B antigen
+LBDHCV,hepatitis C antibody
+LBDHD,hepatitis D antibody
+LBXHBS,Hep B surface antibody
+LBXHA,hepatitis A antibody
+LBDHI,HIV antibody 
+LBXTC_TH,total cholesterol
+LBDLDL_TH,HDL cholesterol
+LBXTR_TH,LDL cholesterol 
+LBXGH_TH,trilgycerides
+LBXGLU_TH,glycohemoglobin
+LBXVIA,fasting glucose
+LBXVIC,Vitamin C
+LBXVID,Vitamin D
+LBXVIE,Vitamin E (a-Tocopherol)
+LBXB12,Vitamin B-12
+LBXFOL,serum folate
+LBXRBF,RBC folate
+LBXFER,ferritin
+LBXHCY,plasma homocysteine
